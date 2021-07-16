@@ -29,11 +29,11 @@ Project aims to create website site page.
 
 ## Expected Outcome
 
-![Project 004 Snapshot](Project_004_1.png)
+https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_1.png?token=ATNLWA7QDAFF5SMSLPKCTYTA6DTPM
 
-![Project 004 Snapshot](Project_004_2.png)
+https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_2.png?token=ATNLWA43O6NBHNWLNVCESLLA6DTPQ
 
-![Project 004 Snapshot](Project_004_3.png)
+https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_3.png?token=ATNLWA6MLCBWQTGVEU5JN6TA6DTPU
 
 ## Objective
 
@@ -84,4 +84,3 @@ Build a Landing same as in the example images.
 -  [Images](https://github.com/clarusway/clarusway-full-stack-7-21/tree/main/html-css/projects/004-%20Website%20Page%20Design/img)
 
 
-## Happy coding!
