@@ -77,8 +77,3 @@ Build a Landing same as in the example images.
 
 - You can use HTML,and CSS to complete this project.
 
-## Resources
-
--  [Images](https://github.com/clarusway/clarusway-full-stack-7-21/tree/main/html-css/projects/004-%20Website%20Page%20Design/img)
-
-
