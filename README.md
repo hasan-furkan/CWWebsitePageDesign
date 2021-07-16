@@ -29,11 +29,9 @@ Project aims to create website site page.
 
 ## Expected Outcome
 
-https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_1.png?token=ATNLWA7QDAFF5SMSLPKCTYTA6DTPM
-
-https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_2.png?token=ATNLWA43O6NBHNWLNVCESLLA6DTPQ
-
-https://raw.githubusercontent.com/clarusway/clarusway-full-stack-8-21/main/html-css/projects/005-%20Website%20Page%20Design/Project_004_3.png?token=ATNLWA6MLCBWQTGVEU5JN6TA6DTPU
+![Project_004_1](https://user-images.githubusercontent.com/81443587/125879772-76c43128-8771-43dc-a624-3138f9ece341.png)
+![Project_004_2](https://user-images.githubusercontent.com/81443587/125879779-8d869eca-0a4d-4d51-af04-d0f8e5f70378.png)
+![Project_004_3](https://user-images.githubusercontent.com/81443587/125879781-7384b10d-7407-4af1-8680-bb7006b1ca6f.png)
 
 ## Objective
 
